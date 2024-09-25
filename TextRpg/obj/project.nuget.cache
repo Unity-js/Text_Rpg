@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MbF5vGyr7HA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shofa\\Desktop\\Workspace\\TextRpg\\TextRpg\\TextRpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shofa\\.nuget\\packages\\documentformat.openxml\\3.1.0\\documentformat.openxml.3.1.0.nupkg.sha512",
+    "C:\\Users\\shofa\\.nuget\\packages\\documentformat.openxml.framework\\3.1.0\\documentformat.openxml.framework.3.1.0.nupkg.sha512",
+    "C:\\Users\\shofa\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

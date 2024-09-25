@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shofa\\Desktop\\Workspace\\TextRpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1794D1D-5AB9-4D72-A205-36790BFD7420}|TextRpg\\TextRpg.csproj|c:\\users\\shofa\\desktop\\workspace\\textrpg\\textrpg\\textrpg.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C1794D1D-5AB9-4D72-A205-36790BFD7420}|TextRpg\\TextRpg.csproj|solutionrelative:textrpg\\textrpg.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1794D1D-5AB9-4D72-A205-36790BFD7420}|TextRpg\\TextRpg.csproj|c:\\users\\shofa\\desktop\\workspace\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1794D1D-5AB9-4D72-A205-36790BFD7420}|TextRpg\\TextRpg.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextRpg",
+              "DocumentMoniker": "C:\\Users\\shofa\\Desktop\\Workspace\\TextRpg\\TextRpg\\TextRpg.csproj",
+              "RelativeDocumentMoniker": "TextRpg\\TextRpg.csproj",
+              "ToolTip": "C:\\Users\\shofa\\Desktop\\Workspace\\TextRpg\\TextRpg\\TextRpg.csproj",
+              "RelativeToolTip": "TextRpg\\TextRpg.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T02:49:11.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shofa\\Desktop\\Workspace\\TextRpg\\TextRpg\\Program.cs",
+              "RelativeDocumentMoniker": "TextRpg\\Program.cs",
+              "ToolTip": "C:\\Users\\shofa\\Desktop\\Workspace\\TextRpg\\TextRpg\\Program.cs",
+              "RelativeToolTip": "TextRpg\\Program.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAIwFEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:11:53.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
